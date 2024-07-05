@@ -1,4 +1,4 @@
-list_sample = [10, 501, 22, 37, 100, 87, 351] # list of numbers
+list_sample = [10, 501, 22, 37, 100, 999, 87, 351] # list of numbers
 even = []                                     # initialing vairiable for even list
 odd = []                                      # initialing vairiable for odd list
 
